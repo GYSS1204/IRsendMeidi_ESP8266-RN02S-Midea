@@ -1,0 +1,14 @@
+begin_2	KEYWORD2
+IRsendMeidi	KEYWORD1
+setCodeTime	KEYWORD2
+setTemps	KEYWORD2
+setModes	KEYWORD2
+setFanSpeeds	KEYWORD2
+setEco	KEYWORD2
+setPowers	KEYWORD2
+setZBPL	KEYWORD2
+setSwingUD	KEYWORD2
+setSwingLR	KEYWORD2
+setFZC	KEYWORD2
+setTimers	KEYWORD2
+Send_Code	KEYWORD2
