@@ -20,7 +20,7 @@ int Zero_Space = 550;  //0位高电平时间
 int L_Mark = 4400;     //引导位低电平时间
 int L_Space = 4400;    //引导位高电平时间
 int S_Space = 5220;    //间隔位高电平时间
-uint8_t D_1 = 0xAB, D_2,D_3,D_4 = 0x00, D_5 = 0x00, D_6;
+uint8_t D_1 = 0xAB, D_2 = 0x66, D_3 = 0x00, D_4 = 0x00, D_5 = 0x00, D_6 = 0xDC;
 uint8_t A,B,C,B_1 = 0xF, B_2, C_1 = 0x1, C_2 = 0xB;
 uint8_t kIrLed = 4;  // ESP8266 GPIO pin to use. Recommended: 4 (D2).
 
